@@ -1,8 +1,4 @@
 # git-test
 My first GitHub repo!
 Hello Odin!
-asdfadkfjlkj
-jkljlkgjadkfgj
-kldfjgkldsjfg
-jdlkfgjkldfjg
-lkdjfglkdfjg
+This is my code
